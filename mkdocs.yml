@@ -1,50 +1,54 @@
-site_name: $site_name # Change this to your site name
-site_description: $site_description
-site_url: $site_url # Change this to your site URL
-site_author: $site_author
+site_name: Ad Astra # Change this to your site name
+site_description: Website for my Ad Astra campaign
+site_url: https://adastra.lichfactory.com/ # Change this to your site URL
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/lich-factory-logo.png
+    favicon: assets/meta/lich-factory-logo.png
     custom_dir: overrides
     font:
         text: Ubuntu
         code: Ubuntu Mono
-    language: $language
+    language: en
     palette:
 
-    # Light mode
+# Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: blue grey
+      accent: deep purple
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: indigo
+      primary: indigo
+      accent: purple
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to light mode
     features:
+        - header.autohide
         - navigation.indexes
         - navigation.top
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.expand
+        - navigation.footer
+        - navigation.path
+        # - navigation.tabs
+        # - navigation.tabs.sticky
+        # - navigation.expand
         - search.suggest
         - search.highlight
+        - toc.follow
 
 # Extensions
 markdown_extensions:
   - footnotes
   - nl2br
   - attr_list
+  - md_in_html
   - sane_lists
   - meta
   - smarty
@@ -66,8 +70,11 @@ markdown_extensions:
   - pymdownx.tasklist:
        custom_checkbox: true
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+        - overrides/.icons      
   - admonition
   - toc:
       permalink: true
@@ -78,13 +85,16 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
 plugins:
+  - tags:
+      enabled: false
   - search
   - meta-descriptions
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: $language
+      locale: en
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
@@ -95,8 +105,6 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
-  - tags:
-      tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'
@@ -122,12 +130,14 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
+    - assets/css/its-fonts.css
+    - assets/css/faction-images.css
 extra:
   SEO: assets/meta/SEO.png
-  comments: $comments #disable comments globally
-  generate_graph: $generate_graph #generate the graph of the site
+  comments: false #disable comments globally
+  generate_graph: false #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
-  no-auto-h1: $auto_h1 #disable the automatic generation of h1 if no h1 is found
+  no-auto-h1: false #disable the automatic generation of h1 if no h1 is found
   blog_list:
     pagination: true #enable pagination
     pagination_message: true #display the message "Showing x posts out of y"
@@ -136,3 +146,4 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
+copyright: Copyright &copy; 2023 Lich Factory · All material on this website is licensed under a Creative Commons Attribution NonCommercial-ShareAlike 4.0 International License, except where otherwise indicated.

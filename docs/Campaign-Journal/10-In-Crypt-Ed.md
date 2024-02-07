@@ -1,7 +1,7 @@
 ---
 title: session 10
 date created: Tuesday, January 23rd 2024, 8:49:33 am
-date modified: Sunday, January 28th 2024, 9:07:26 am
+date modified: Tuesday, February 6th 2024, 9:32:35 pm
 share: true
 ---
 
@@ -21,9 +21,11 @@ share: true
 > 
 > **Encounters**:
 > 
-> - [[../../Zerrenia Azhar|Zerrenia Azhar]] 
-> - [[../../Sāros Karenikos|Saros Karenikos]]
+> - [[Zerrenia Azhar|Zerrenia Azhar]] 
+> - [[Sāros Karenikos|Saros Karenikos]]
 > - Bortles 
+
+## In-Crypt-ed
 
 We made it into the Gala. Though feeling a bit out of place we mingled and smiled. The artifacts on display in the ballroom were very interesting. There was an enormous tusk or tooth (it was difficult to tell), and some sort of shiny black rock with what looked a big lizard claw but blown up to comical size, imprinted in it. 
 
@@ -33,4 +35,4 @@ We explored a bit further and discovered the master study at the rear of the hou
 
 Meanwhile Stigs, impersonating a member of the House staff, was drafted into cleaning up and waiting on folks. Fortunately, this also allowed him to get a sense of the layout of the basement, should they need to escape that way. Karel and Ryalith mostly hung back and looked on at the chaos. 
 
-We had arranged for a further distraction to cover our movement from the house to the crypt. While a mob of angry professors yelled at the front entrance, we took our leave of the house through a side door and made our way to the crypt. Once there Karel bravely stepped forward wearing the signet ring and said the passphrase. It seemed to work! The statute -- an enormous 12 foot figure made of stone -- stood impassively at the gate into the crypt. Now to find the book and get out of here!
+We had arranged for a further distraction to cover our movement from the house to the crypt. While a mob of angry professors yelled at the front entrance, we took our leave of the house through a side door and made our way to the crypt. Once there Karel bravely stepped forward wearing the signet ring and said the passphrase. It seemed to work! The statue -- an enormous 10 foot figure made of stone -- stood impassively at the gate into the crypt. Now to find the book and get out of here!

@@ -3,6 +3,7 @@ title: session 10
 date created: Tuesday, January 23rd 2024, 8:49:33 am
 date modified: Tuesday, February 6th 2024, 9:34:03 pm
 share: true
+type: journal
 ---
 
 

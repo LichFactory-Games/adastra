@@ -3,10 +3,11 @@ title: session 07
 date created: Tuesday, December 19th 2023, 1:19:17 pm
 date modified: Tuesday, January 23rd 2024, 10:40:12 am
 share: true
+type: journal
 ---
 
 
-> [!info]- Session 6 **Date:** 2023-12-18 1840.04.17 (Day 317 of the 1840th kilochron of Er)
+> [!info]- Session 7 **Date:** 2023-12-18 1840.04.17 (Day 317 of the 1840th kilochron of Er)
 >
 > **Party Members:**
 > 

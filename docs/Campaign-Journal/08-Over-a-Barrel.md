@@ -3,6 +3,7 @@ title: session 08
 date created: Tuesday, January 9th 2024, 10:20:16 am
 date modified: Tuesday, January 9th 2024, 10:36:39 am
 share: true
+type: journal
 ---
 
 

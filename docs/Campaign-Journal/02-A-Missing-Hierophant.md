@@ -1,13 +1,13 @@
 ---
 title: session 02
 date created: Friday, November 24th 2023, 7:51:14 am
-date modified: Tuesday, January 23rd 2024, 10:39:55 am
+date modified: Tuesday, February 6th 2024, 9:47:23 pm
 share: true
 type: journal
 ---
 
 
-> [!info]- Session 1 **Date:** 23-10-16 1840.04.14 (Day 314 of the 1840th kilochron of Er) 
+> [!info]- Session 2 **Date:** 23-10-16 1840.04.14 (Day 314 of the 1840th kilochron of Er) 
 >
 > **Party Members:**
 > 

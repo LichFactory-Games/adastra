@@ -3,6 +3,7 @@ title: session 11
 share: true
 date created: Tuesday, February 6th 2024, 9:08:21 pm
 date modified: Tuesday, February 6th 2024, 9:42:41 pm
+type: journal
 ---
 
 	

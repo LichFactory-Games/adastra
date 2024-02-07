@@ -2,7 +2,7 @@
 title: session 11
 share: true
 date created: Tuesday, February 6th 2024, 9:08:21 pm
-date modified: Tuesday, February 6th 2024, 9:31:56 pm
+date modified: Tuesday, February 6th 2024, 9:42:41 pm
 ---
 
 	
@@ -29,7 +29,7 @@ No sooner had we felt the first sigh of relief in making it past the stone guard
 
 With options dwindling, we fled deeper into the crypt, stumbling upon the ossuary of House Tethys. This chamber, a repository of ancestral wisdom, could have been our salvation. Alas, our curiosity was as absent as our luck, and we bypassed the opportunity to glean insights from the bones of the past. Our focus remained fixated on our prize: the book we'd come to steal.
 
-Securing the tome was the easy part. Escaping with it, however, reignited our confrontation with the phantom warriors. The specters, unyielding and relentless, blocked our path to freedom. It was here, in the face of overwhelming odds, that our party's true mettle shone. We dialed back the intensity of our spectral foes, a nod to the precarious balance between challenge and fun. Yet, the ensuing battle pushed us to our limits.
+Securing the tome was the easy part. Escaping with it, however, reignited our confrontation with the phantom warriors. The specters, unyielding and relentless, blocked our path to freedom. Karel again tried to bluff us past, while Gloopwing peppered the spirits with questions. In a frenzied attempt to use the communicative ritual to speak with the animating spirit of one of the phantoms, Ryalith opened a sarcophagus while Stigs wrenched off the occupant's skull off to start the ritual. Unfortunately this triggered a cry of "Desecrator!" from the phantoms, which then attacked, and the battle was joined. 
 
 In the thick of battle, tactics and sheer willpower became our allies. Stigs's steel companion proved its worth, repeatedly shielding us from certain doom with its deft deflections of incoming blows. Meanwhile, Ryalith, embodying the indomitable spirit of a champion fighter, weathered a storm of blows. Each time she was knocked down, she rose again, a testament to her unbreakable will (and to her love of tubthumping).
 

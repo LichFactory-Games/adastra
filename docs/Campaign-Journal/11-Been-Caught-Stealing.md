@@ -2,7 +2,7 @@
 title: session 11
 share: true
 date created: Tuesday, February 6th 2024, 9:08:21 pm
-date modified: Wednesday, February 7th 2024, 2:44:40 pm
+date modified: Friday, February 9th 2024, 6:23:05 pm
 type: journal
 ---
 
@@ -34,4 +34,4 @@ Securing the tome was the easy part. Escaping with it, however, reignited our co
 
 In the thick of battle, tactics and sheer willpower became our allies. Stigs's steel companion proved its worth, repeatedly shielding us from certain doom with its deft deflections of incoming blows. Meanwhile, Ryalith, embodying the indomitable spirit of a champion fighter, weathered a storm of blows. Each time she was knocked down, she rose again, a testament to her unbreakable will (and to her love of tubthumping). One of the more memorable moments came when Stigs spider-climbed along the ceiling to give a healing high-five to a battered Ryalith. 
 
-The tide turned once the group was able to reassemble -- Karel and Gloopwing, along with Reason, defeated a couple of phantoms and moved up to protect our flank, while Gwen blinded several of our foes. Ultimately victory was ours, but it was a pyrrhic triumph. Our resources depleted, our abilities spent, we now stand at the threshold of escape, the daunting expanse of House Tethys' grounds before us. As we prepare to tread the fine line between audacity and recklessness, one question looms large: Can we evade the watchful eyes and make our great escape?
+The tide turned once the group was able to reassemble -- Karel and Gloopwing, along with Reason, defeated a couple of phantoms and moved up to protect our flank, while Gwen blinded several of our foes. Ultimately victory was ours, but it was a pyrrhic triumph. Our resources depleted, our abilities spent, we now stand at the threshold of escape, the daunting expanse of House Tethys' grounds before us. As we prepare to tread the fine line between audacity and recklessness, one question looms large: Can we evade the watchful eyes of House Tethys and make our great escape?

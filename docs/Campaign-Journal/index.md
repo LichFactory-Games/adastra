@@ -19,3 +19,4 @@ A journal entry for each session, told from the vantage point of the characters.
 - [[./09-Let's-Get-This-Party-Started|09 Let's Get This Party Started]]
 - [[./10-In-Crypt-Ed|10 In-Crypt-Ed]]
 - [[./11-Been-Caught-Stealing|11 Been Caught Stealing]]
+- [[./12-The-Devil-You-Know|12 The Devil You Know]]

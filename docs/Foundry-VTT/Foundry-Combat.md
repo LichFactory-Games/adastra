@@ -6,12 +6,10 @@ tags:
   - foundry
 share: true
 date created: Tuesday, July 18th 2023, 5:25:29 pm
-date modified: Saturday, November 4th 2023, 5:12:15 pm
+date modified: Wednesday, February 14th 2024, 2:16:28 pm
 ---
 
 
-Foundry includes two modules for combat. The first is [Argon HUD](https://wiki.theripper93.com/free/enhancedcombathud). The second is the [combat carousel](https://wiki.theripper93.com/free/combat-tracker-dock). These are largely for the player's ease of use. However, everything can be run from the player's character sheet if they prefer. 
+Foundry runs combat from the "combat" tab, which is a picture of swords crossed over a shield, on the right-hand side of the screen. Everything can be run from the player's character sheet if they prefer, but the player can also drag often-used actions to the "hotbar" on the bottom left of the screen (there is a small folder there, that might need to be clicked to be expanded). 
 
-The character sheet itself can also be popped out into it's own window/tab (use the "pop out" button in the top frame of the character sheet window). All dice rolls from the character sheet go to the chat (which can also be popped out from the side bar via a right click on the chat symbol, and popped into its own tab or window using the "pop out" button). For a brief overview of what the char sheet looks like and some of what you can do see its home page [here](https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet). 
-
-For an overview of the generic character sheet, which you may use if you prefer see [this guide](https://www.encounterlibrary.com/guides/players-guide-the-character-sheet-foundry-vtt/). 
+The character sheet itself can also be popped out into it's own window/tab (use the "pop out" button in the top frame of the character sheet window). All dice rolls from the character sheet go to the chat (which can also be popped out from the side bar via a right click on the chat symbol, and popped into its own tab or window using the "pop out" button). For a brief overview of what the char sheet looks like and some of what you can do see a discussion of it [here](https://github.com/foundryvtt/dnd5e/releases#user-content-character-sheet).

@@ -3,7 +3,7 @@ title: session 13
 share: true
 type: journal
 date created: Tuesday, February 20th 2024, 12:19:51 pm
-date modified: Tuesday, February 20th 2024, 12:33:23 pm
+date modified: Tuesday, February 20th 2024, 12:53:18 pm
 ---
 
 > [!info]- Session 1 **Date:** 2023-09-25 1840.04.11-13 (Days 311-13 of the 1840th kilochron of Er) 
@@ -30,6 +30,7 @@ date modified: Tuesday, February 20th 2024, 12:33:23 pm
 > - Tarsus Bartholdy 
 > - Ceremorph
 
+## Who's the Boss?
 We found ourselves embroiled in an unexpected battle that unfolded within the dimly lit confines of the Blackened Barrel, a notorious den overseen by the local crimelord, Velik Nox. Our initial intent was to get our reward and negotiate additional time with the Astranomicon, but upon our arrival, we were thrust into the midst of a brewing coup. To our own surprise, we sided with Velik, standing against a formidable enemy force: five enforcers, two thugs, and their leader, a sorcerer named Pyrrhos Agni. 
 
 The tension escalated when Pyrrhos commanded one of Velik's supposed lieutenants, Crox Kelryn, now revealed as a traitor, to assassinate Velik. As the battle cry was sounded we threw ourselves into the fray to protect Velik. Our intervention was timely; Stigs thwarted the attempted assassination by interposing himself between Velik and Crox. This provided Velik the opportunity to envelop the area in magical darkness. With his Devil's Sight, Velik became a shadowy reaper, dealing death with his dagger and poison–his reputation as a ruthless criminal was clearly well-earned. 

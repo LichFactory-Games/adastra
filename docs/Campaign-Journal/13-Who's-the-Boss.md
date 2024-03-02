@@ -3,10 +3,10 @@ title: session 13
 share: true
 type: journal
 date created: Tuesday, February 20th 2024, 12:19:51 pm
-date modified: Tuesday, February 20th 2024, 12:53:18 pm
+date modified: Saturday, March 2nd 2024, 12:00:04 pm
 ---
 
-> [!info]- Session 1 **Date:** 2023-09-25 1840.04.11-13 (Days 311-13 of the 1840th kilochron of Er) 
+> [!info]- Session 13 **Date:** 2024-02-19 | 1840.04.20 (Day 320 of the 1840th kilochron of Er) 
 >
 > **Party Members:**
 > 
@@ -42,4 +42,4 @@ We tried to intervene as Velik prepared to deliver the final blow to the unconsc
 As we watched, Pyrrhos's corpse began to convulse violently. We backed away and watched, horrified, as Pyrrhos's skull cracked and burst. From the wreckage of his skull emerged a gelatinous and wrinkled organ, its ichor-drenched mass a collection of knotty folds and dendritic tendrils. Sprouting spindly, tuberous legs as it shook off the remnants of Pyrrhos's ruined skull, the nightmare began to skitter across the floor towards the bar's exit. 
 
 
-The sight was so terrifying that several of us were momentarily stunned into a speechless paralysis. The rest of us rushed to stop the thing before it escaped from our sight. 
+The sight was so terrifying that several of us were momentarily stunned into a speechless paralysis. The rest of us rushed to stop the thing before it escaped from sight. 

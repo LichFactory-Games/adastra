@@ -26,6 +26,7 @@ date modified: Saturday, March 2nd 2024, 12:00:37 pm
 > - Tarsus Bartholdy 
 > - Ceremorph
 
+## The Brains of the Outfit 
 
 We watched, horrified, as the brain-thing began to skitter off across the floor. Velik sent a bolt of fire its way, it sizzled and burped as superheated air escaped its putrescent body. Repeated strikes from Gwen, Stigs, and Gloopwing finally reduced it to an unctious mass of fluid and brain matter, its thin tuberous legs folded up in a curl, like it was attempting to hug itself to death.
 

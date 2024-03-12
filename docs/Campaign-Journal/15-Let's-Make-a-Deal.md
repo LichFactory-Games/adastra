@@ -3,7 +3,7 @@ title: session 15
 share: true
 type: journal
 date created: Wednesday, March 6th 2024, 3:45:30 pm
-date modified: Saturday, March 9th 2024, 8:13:04 am
+date modified: Monday, March 11th 2024, 8:54:30 am
 ---
 
 > [!info]- Session 15 **Date:** 2024-03-11 | 1840.04.22 (Day 322 of the 1840th kilochron of Er)
@@ -21,6 +21,7 @@ date modified: Saturday, March 9th 2024, 8:13:04 am
 > 
 > **Encounters**: Zerrenia Azhar 
 
+## Let's Make A Deal 
 
 After a restorative break at the Hidden Muse, we were in good spirits. We needed to make our next move, and that involved the mysterious Zerrenia Azhar. Our parting words with Velik paid off, as he sent us a mid-morning missive containing Zerrenia's address. We then sent a message of our own. Gwen, being the only one of us personally acquainted with Zerrenia, wrote a letter asking to meet in person concerning matters of mutual interest. 
 
@@ -30,4 +31,4 @@ Z proposed a job for us. She wanted a book she called the 'Astronomicon', and sa
 
 She noted that readers of the book would have difficulty without the "key" that she possessed that would be aid in deciphering the mysterious language in the book, and keep one from madness in so doing. She also spoke of the need to understand the Astranomicon's contents for the good of others -- that knowing and understanding the truth of things was important in and of itself, and that this truth should be available to all. 
 
-The bargaining was intense. Zerrenia was a shrewd negotiator, her demands high but not without reason. She seemed unconcerned with money, and was mildly insulting towards others who were. Ultimately, we came to an understanding. We would read the book together, over multiple sessions. She would bring us money for each session we met. We would start fresh tomorrow. Z left, but we were concerned for her safety so Ryalith and Karel shadowed her home, and would return tomorrow to pick her up. 
+The bargaining was intense. Zerrenia was a shrewd negotiator and was unwilling to give up a connection to the book for any period of time. She seemed unconcerned with money, and was mildly insulting towards others who were. Ultimately, we came to an understanding. We would read the book together, over multiple sessions. She would bring us money for each session we met. We would start fresh tomorrow. Z left, but we were concerned for her safety so Ryalith and Karel shadowed her home, and would return tomorrow to pick her up. 

@@ -1,12 +1,11 @@
 ---
 date created: Saturday, November 11th 2023, 6:49:23 pm
-date modified: Saturday, November 11th 2023, 11:30:16 pm
+date modified: Tuesday, March 26th 2024, 8:58:08 am
 share: true
 title: Campaign Journal
 ---
 
-
-A journal entry for each session, told from the vantage point of the characters. 
+A journal entry for each session, told from the vantage point of the characters.
 
 - [[./01-Death-in-the-Dunwold|01 Death in the Dunwold]]
 - [[./02-A-Missing-Hierophant|02 A Missing Hierophant]]
@@ -20,3 +19,9 @@ A journal entry for each session, told from the vantage point of the characters.
 - [[./10-In-Crypt-Ed|10 In-Crypt-Ed]]
 - [[./11-Been-Caught-Stealing|11 Been Caught Stealing]]
 - [[./12-The-Devil-You-Know|12 The Devil You Know]]
+- [[./13-Who's-the-Boss|13 Who's the Boss]]
+- [[./14-The-Brains-of-the-Outfit|14 The Brains of the Outfit]]
+- [[./15-Let's-Make-a-Deal|15 Let's Make a Deal]]
+- [[./16-Book-Bound|16 Book Bound]]
+- [[./17-Stalling-for-Time|17 Stalling for Time]]
+- [[./18-Crate-Expectations|18 Crate Expectations]]

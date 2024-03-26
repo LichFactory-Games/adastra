@@ -3,10 +3,10 @@ title: session 16
 share: true
 type: journal
 date created: Tuesday, March 12th 2024, 7:56:35 am
-date modified: Tuesday, March 12th 2024, 9:54:46 am
+date modified: Tuesday, March 26th 2024, 9:06:17 am
 ---
 
-> [!info]- Session 16 **Date:** 2024-03-11 | 1840.04.22 (Day 322 of the 1840th kilochron of Er)
+> [!info]- Session 16 **Date:** 2024-03-11 | 1840.04.22 (Day 323 of the 1840th kilochron of Er)
 >
 > **Party Members:**
 > 

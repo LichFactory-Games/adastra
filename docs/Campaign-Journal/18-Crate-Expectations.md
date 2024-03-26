@@ -3,10 +3,10 @@ title: session 18
 share: true
 type: journal
 date created: Tuesday, March 26th 2024, 7:57:11 am
-date modified: Tuesday, March 26th 2024, 8:47:31 am
+date modified: Tuesday, March 26th 2024, 9:06:45 am
 ---
 
-> [!info]- Session 18 **Date:** 2024-03-25 | 1840.04.22 (Day 322 of the 1840th kilochron of Er)
+> [!info]- Session 18 **Date:** 2024-03-25 | 1840.04.22 (Day 323 of the 1840th kilochron of Er)
 >
 > **Party Members:**
 > 

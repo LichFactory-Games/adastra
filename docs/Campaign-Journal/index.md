@@ -25,3 +25,6 @@ A journal entry for each session, told from the vantage point of the characters.
 - [[./16-Book-Bound|16 Book Bound]]
 - [[./17-Stalling-for-Time|17 Stalling for Time]]
 - [[./18-Crate-Expectations|18 Crate Expectations]]
+- [[./19-There-Will-Be-Blood|19 There Will Be Blood]]
+- [[./20-Brain-Trust|20 Brain Trust]]
+- [[./21-Mind-Games|21 Mind Games]]

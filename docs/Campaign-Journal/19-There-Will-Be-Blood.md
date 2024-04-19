@@ -6,7 +6,7 @@ date created: Tuesday, April 2nd 2024, 8:53:53 am
 date modified: Tuesday, April 2nd 2024, 1:10:28 pm
 ---
 
-> [!info]- Session 19 **Date:** 2024-04-01 | 1840.04.22 (Day 323 of the 1840th kilochron of Er)
+> [!info]- Session 19 **Date:** 2024-04-01 | 1840.04.23 (Day 323 of the 1840th kilochron of Er)
 >
 > **Party Members:**
 > 

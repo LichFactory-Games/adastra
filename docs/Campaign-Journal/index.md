@@ -28,3 +28,8 @@ A journal entry for each session, told from the vantage point of the characters.
 - [[./19-There-Will-Be-Blood|19 There Will Be Blood]]
 - [[./20-Brain-Trust|20 Brain Trust]]
 - [[./21-Mind-Games|21 Mind Games]]
+- [[./22-An-Offer-We-Can't-Refuse|22 An Offer We Can't Refuse]]
+- [[./23-Thunderstruck|23 Thunderstruck]]
+- [[./24-Don't-Be-Sil-y|24 Don't Be Sil-y]]
+- [[./25-It-Takes-A-Village|25 It Takes A Village]]
+- [[./26-Sandtrap!|26 Sandtrap!]]

@@ -38,3 +38,4 @@ A journal entry for each session, told from the vantage point of the characters.
 - [[./29-Life-Is-a-Highway|29 Life Is a Highway]]
 - [[./30-On-The-Road-Again|30 On The Road Again]]
 - [[./31-Temple-of-Doom|31 Temple of Doom]]
+- [[./32-The-Gate|32 The Gate]]

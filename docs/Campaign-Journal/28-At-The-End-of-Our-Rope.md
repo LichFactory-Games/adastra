@@ -6,7 +6,7 @@ date created: Tuesday, June 18th 2024, 8:38:17 am
 date modified: Tuesday, July 2nd 2024, 10:34:25 am
 ---
 
-> [!info]- Session 28 **Date:** 2024-06-10 | 1840.05.11 (Day 341 of the 1840th kilochron of Er)  
+> [!info]- Session 28 **Date:** 2024-06-17 | 1840.05.11 (Day 341 of the 1840th kilochron of Er)  
 >**Party Members:**
 > 
 > - Gloopwing

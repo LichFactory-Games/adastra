@@ -4,7 +4,7 @@ share: true
 type: journal
 ---
 
-> [!info]- Session 29 **Date:** 2024-06-17 | 1840.05.13 (Day 343 of the 1840th kilochron of Er)
+> [!info]- Session 29 **Date:** 2024-07-08 | 1840.05.13 (Day 343 of the 1840th kilochron of Er)
 >
 > **Party Members:**
 > 

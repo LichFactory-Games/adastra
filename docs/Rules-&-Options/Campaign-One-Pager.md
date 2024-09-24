@@ -25,7 +25,7 @@ If you like, choose a potential patron or faction whose interests you serve (or 
 1. **The Dyarchy**: Upholders of order, entrusted with maintaining equilibrium in Ermis, and control over the Great Houses.
 2. **The Great Houses**: Aristocratic families (Tethys, Xeryth, Hyperion, Valtor, Orosen) engaged in an endless power struggle. 
 3. **The Arkanum**: Guardians of technomancy, anchoring the economic foundation of the Spar cities.
-4. **Cult of Hodos**: Devoted seekers of Hodos, Opener of the Way, unlocking cosmic secrets.
+4. **Friends of Hodos**: Devoted seekers of Hodos, Opener of the Way, unlocking cosmic secrets.
 
 ## Character Creation
 
@@ -33,7 +33,7 @@ Shape your character using these guidelines:
 
 - **Ability Scores**: Roll **4d6** and drop the lowest. Do this six times. if none of your scores are 14 or higher, or if the set has **two or more** scores of 8 or under you may roll a new set of six.
 - **Allowed Sources**:  All classes from the 2014 PHB and TCE are allowed. If you wish to play a **Warlock** please talk with me first.   Other sources are negotiable. 
-- **Ancestry/Lineage**: Ermis lacks many standard D&D ancestries/lineages. You **cannot** play a Dwarf, Dragonborn, Elf, Gnome, Halfling, or Tiefling. **Instead**, the following are available for play on Ermis:  (lineages) Dhampir, Hexblood, Reborn; (ancestries) Harendon, Human, Loxodon, Plasmoid, Thri-Kreen, and Vedalken.
+- **Ancestry/Lineage**: Ermis lacks many standard D&D ancestries/lineages. You **cannot** play a Dwarf, Dragonborn, Elf, Gnome, Halfling, or Tiefling. **Instead**, the following are available for play on Ermis:  (lineages) Dhampir, Hexblood, Reborn; (ancestries), Human, Plasmoid, Thri-Kreen, and Vedalken.
 - **New Ancestries**: Autons: living mechanical constructs;  Doloi: a kind of goblinoid; The Faeir: enigmatic and aloof fey humanoids; Haemin: humanoids small of stature but big in their ideas (as if dwarves, halflings, and gnomes were just one race…).
 - **Racial Bonuses**: When choosing a race, racial ability bonuses can be applied to **any** ability, with a maximum of +2 to any single ability.
 - **New Classes & Subclasses**: Psion (psychic powers,  three subclasses), Pugilist (master of hand-to-hand combat,  seven subclasses); Kinemancer; Orimancer (Wizard); Power Domain (Cleric); Tinkerer (Rogue). 

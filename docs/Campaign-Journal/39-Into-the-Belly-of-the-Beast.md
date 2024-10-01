@@ -3,7 +3,7 @@ title: session 39
 share: true
 type: journal
 date created: Tuesday, September 24th 2024, 7:30:29 am
-date modified: Tuesday, September 24th 2024, 9:00:25 am
+date modified: Monday, September 30th 2024, 7:14:54 pm
 ---
 
 > [!info]- Session 39 **Date:** 2024-09-23 | 1840.06.16 (Day 324 of the 1840th kilochron of Er)
@@ -45,4 +45,4 @@ After a short rest to recover from our ordeal, we set out to investigate the gal
 
 As Xor and Ryalith reeled from the mental assault, Stigs and Gloopwing maintained their composure long enough to witness a horrifying sight. Approaching rapidly was a floating brain, its bulk supported by multiple legs, accompanied by eight unknown figures.
 
-We found ourselves face to face with the former occupants of the Enemy ship - and they did not seem pleased by our intrusion. As we steeled ourselves for another battle, we couldn't help but wonder: had we stumbled into a trap of our own making, or was this the opportunity we needed to strike a blow against our extraplanar foes? Only time would tell, as we prepared to face this new threat head-on.
+We found ourselves face to face with the former occupants of the Enemy ship - and they did not seem pleased by our intrusion. As we steeled ourselves for another battle, we couldn't help but wonder: had we stumbled into a trap of our own making, or was this the opportunity we needed to strike a blow against our alien foes? Only time would tell, as we prepared to face this new threat head-on.

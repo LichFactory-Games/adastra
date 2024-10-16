@@ -9,17 +9,15 @@ share: true
 > ![[../assets/img/gloopwing.png|gloopwing.png]]  
 > ![[../assets/img/pc-gwen.jpeg|pc-gwen.jpeg]]  
 > ![[../assets/img/slithy-familiar.png|slithy-familiar.png]]
-> ![[../assets/img/pc-karel2.png|pc-karel2.png]]  
 > ![[../assets/img/faeir-feline.png|faeir-feline.png]]  
 > ![[../assets/img/pc-stiggs.png|pc-stiggs.png]]
-> ![[../assets/img/reason_purple.webp|reason_purple.webp]]
+> ![[../assets/img/reason-portrait.webp|reason-portrait.webp]]
 
 The party members are as follows: 
 
 - [[./Gloopwing-(Web)|Gloopwing]]
 - [[./Gwenzahlya-(Web)|Gwenzahlya]]
 - [[./Prince-Slithy-(Web)|Prince Slithy]]
-- [[./Karel-(Web)|Karel]]
 - [[./Ryalith-Seraphia-(Web)|Ryalith]]
 - [[./Stigs-the-Stiff-(Web)|Stigs]]
 - [[./Reason-(Web)|Reason]]

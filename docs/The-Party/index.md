@@ -11,7 +11,7 @@ share: true
 > ![[../assets/img/slithy-familiar.png|slithy-familiar.png]]
 > ![[../assets/img/faeir-feline.png|faeir-feline.png]]  
 > ![[../assets/img/pc-stiggs.png|pc-stiggs.png]]
-> ![[../assets/img/reason-portrait.webp|reason-portrait.webp]]
+> ![[../assets/img/reason-portrait.png|reason-portrait.png]]
 
 The party members are as follows: 
 

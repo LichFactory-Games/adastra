@@ -3,12 +3,12 @@ title: Reason
 aliases:
   - Steel Defender
 date created: Wednesday, November 29th 2023, 10:46:53 pm
-date modified: Friday, December 15th 2023, 9:09:57 pm
+date modified: Wednesday, October 16th 2024, 8:47:31 am
 tags:
   - erspace/ermis/construct
 share: true
 image: 
-art: "![[../assets/img/reason_purple.webp|reason_purple.webp]]"
+art: "![[../assets/img/reason-portrait.webp|reason-portrait.webp]]"
 type: pc
 name: Reason
 player: Stigs
@@ -73,7 +73,7 @@ linter-yaml-title-alias: "**`Reason`**"
 
 
 > [!infobox|right]  
-> >![[../assets/img/reason_purple.webp|reason_purple.webp]]  
+> >![[../assets/img/reason-portrait.webp|reason-portrait.webp]]  
 > **Player:** Griffin  
 > **Class:** Steel Defender  
 > **Race:** Construct  

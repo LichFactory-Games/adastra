@@ -1,6 +1,6 @@
 # netlify.toml
 [build]
-  command = "pip install mkdocs mkdocs-material && mkdocs build"
+  command = "export PATH=$PATH:/opt/buildhome/.local/share/mise/installs/python/3.9.20/bin && pip install mkdocs mkdocs-material && mkdocs build"
   publish = "site"
 
 [build.environment]

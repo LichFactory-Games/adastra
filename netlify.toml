@@ -2,3 +2,6 @@
 [build]
   command = "pip install mkdocs mkdocs-material && which mkdocs && mkdocs build"
   publish = "site"
+
+[build.environment]
+  PYTHON_VERSION = "3.9"  # Ensure this is set to a version that meets your requirements

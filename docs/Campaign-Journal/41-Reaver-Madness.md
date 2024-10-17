@@ -3,7 +3,7 @@ title: session 41
 share: true
 type: journal
 date created: Tuesday, October 8th 2024, 9:06:40 am
-date modified: Tuesday, October 8th 2024, 10:31:40 am
+date modified: Thursday, October 17th 2024, 10:33:34 am
 ---
 
 > [!info]- Session 41 **Date:** 2024-10-07 | 1840.06.18 (Day 326 of the 1840th kilochron of Er)
@@ -41,6 +41,6 @@ At last, we reached the tower's pinnacle - an open observatory that jutted out i
 
 She found herself plunged into a vivid memory, a moment from her past so real she could almost touch it. The temptation to remain in this comforting illusion was strong, but with great effort, Ryalith chose to press forward.
 
-As she emerged on the other side, she was greeted by a sight both wondrous and terrifying. An androgynous figure of terrible beauty stood before her in an opulent workshop. Its eyes, filled with ancient wisdom and cosmic secrets, fixed upon Ryalith as it spoke words that sent a chill down her spine: "It's about time you got here."
+As she emerged on the other side, she was greeted by a sight both wondrous and terrifying. An androgynous figure of terrible beauty stood before her in an opulent workshop. Their eyes, cool and grey and piercing, fixed upon Ryalith as they spoke words that sent a chill down her spine: "It's about time you got here."
 
-What secrets does this enigmatic being hold? Do they have the artifact we seek? Will they give it willingly or must we fight for it?
+Is this Mal'ifex? What secrets do they hold? Do they have the artifact we seek? Will they give it willingly or must we fight for it?

@@ -1,4 +1,4 @@
 # netlify.toml
 [build]
-  command = "pip install mkdocs mkdocs-material && ~/.local/bin/mkdocs build"
+  command = "pip install mkdocs mkdocs-material && which mkdocs && mkdocs build"
   publish = "site"

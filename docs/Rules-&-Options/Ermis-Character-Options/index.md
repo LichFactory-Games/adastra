@@ -11,7 +11,7 @@ share: true
 linter-yaml-title-alias: Ermis Character Options
 title: Character Options
 date created: Sunday, July 2nd 2023, 10:56:12 am
-date modified: Saturday, October 28th 2023, 8:39:12 am
+date modified: Wednesday, October 16th 2024, 10:07:58 pm
 ---
 
 # Ermis Character Options
@@ -22,12 +22,12 @@ The planet Ermis and the history of Erspace put special constraints on, and opti
 
 ## Ability Scores
 
-- **Roll** 4d6 and drop the lowest. Do this six times.  if *none* of your scores are 14 or higher,  or if the set has *two or more* scores of 8 or under you may roll a new set of six. You must take the new set. 
+- **Roll** 4d6 and drop the lowest. Do this six times. if *none* of your scores are 14 or higher, or if the set has *two or more* scores of 8 or under you may roll a new set of six. You must take the new set. 
 - When choosing a race, racial ability bonuses can be applied to *any* score, with a maximum of +2 to any single ability.
 
 ## New Classes
 
--  **[[psion-ermis|Psion]]**: A psychic class with three subclasses: Wilder, Inquisitor, and Tactician. There are also several available psionic subclasses for other classes, including the Fighter (Psi-Knight), Rogue (Soul-Blade), and Sorcerer (Aberrant Mind). Most psions are found, inducted, and trained by the Gnostari -- the psychic order of The Dyarchy. The Gnostari actively seek out and recruit any beings that manifest any significant psychic ability. If a character has psychic powers but does not want to be "recruited" into the Gnostari, then that character had better keep their powers a secret and perhaps also live in a remote place. There are rumors that both the Haim Collective and the Fair harbor various psychics who are of significant power but have no wish to serve the Gnostari.
+- **[[psion-ermis|Psion]]**: A psychic class with three subclasses: Wilder, Inquisitor, and Tactician. There are also several available psionic subclasses for other classes, including the Fighter (Psi-Knight), Rogue (Soul-Blade), and Sorcerer (Aberrant Mind). Most psions are found, inducted, and trained by the Gnostari -- the psychic order of The Dyarchy. The Gnostari actively seek out and recruit any beings that manifest any significant psychic ability. If a character has psychic powers but does not want to be "recruited" into the Gnostari, then that character had better keep their powers a secret and perhaps also live in a remote place. There are rumors that both the Haim Collective and the Fair harbor various psychics who are of significant power but have no wish to serve the Gnostari.
 - **[[pugilist-sterlingvermin|Pugilist]]**: Pugilists unconsciously tap into their own inner strength in the form of "moxie". This is not an esoteric or mystical energy that flows through the multiverse, but the result of determination forged over a lifetime of hardship with a never-say-die attitude. You can teach someone how to fight but you could never teach someone how to be a pugilist. The secret of mastering moxie doesn't come from disciplined study or rigorous training, it comes from years of wanting and needing
 
 ## New Subclasses
@@ -41,7 +41,7 @@ NOTE: These all still require playtesting so please be aware that tweaks might n
 
 ## Species & Lineage
 
-In addition to Human, the following species and lineages are available for play on Ermis: Dhampir, Giff, Goliath, Hadozee, Harengon, Hexblood, Loxodon, Plasmoid, Thri-Kreen, Vedalken. There are also some new additional species & lineages:
+In addition to Human, the following species and lineages are available for play on Ermis: Dhampir, Giff, Goliath, Hexblood, Plasmoid, Thri-Kreen, Vedalken. There are also some new additional species & lineages:
 
 - **[[auton-ermis|Auton]]**: A living mechanical construct. 
 - **[[doloi-ermis|Doloi]]**: A kind of goblinoid; may be small or medium in size. 

@@ -1,6 +1,6 @@
 # netlify.toml
 [build]
-  command = "pip install mkdocs mkdocs-material && which mkdocs && mkdocs build"
+  command = "pip install mkdocs mkdocs-material && mkdocs build"
   publish = "site"
 
 [build.environment]

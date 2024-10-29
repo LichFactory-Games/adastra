@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Sunday, August 13th 2023, 6:07:50 pm
-date modified: Thursday, February 1st 2024, 8:54:02 pm
+date modified: Wednesday, October 23rd 2024, 9:14:56 am
 hide:
   - toc
 title: Home
@@ -19,7 +19,7 @@ In *Ad Astra* the characters seek to learn the truth about various dark forces t
 
 # Welcome to Ermis
 
-Ermis, the hollow planet. Its inhabitants dwell concealed in the interior, living under the light of the *Strom*, a forever-raging electrostatic tempest. Ermis's two great cities, Eryth and Astryth, flank the twin towers of the Spar, colossal mesas piercing up through the Strom from opposing ends of Ermis. The floating city of Omerth hovers between them at Ermis's hollow center. Together these cities constitute the Dyarchy, a theocracy ruled by the Dyad (the Two-Who-Are-One). Adventurers must navigate the dangers of the Dyarchy,  the intrigues of its great houses, and the challenges of other factions, such as the mechanically-minded Haimin and the enigmatic Fair Folk.
+Ermis, the hollow planet. Its inhabitants dwell concealed in the interior, living under the light of the *Strom*, a forever-raging electrostatic tempest. Ermis's two great cities, Eryth and Astryth, flank the twin towers of the Spar, colossal mesas piercing up through the Strom from opposing ends of Ermis. The floating city of Omerth hovers between them at Ermis's hollow center. Together these cities constitute the Dyarchy, a theocracy ruled by the Dyad (the Two-Who-Are-One). Adventurers must navigate the dangers of the Dyarchy, the intrigues of its great houses, and the challenges of other factions, such as the mechanically-minded Haimin and the enigmatic Fair Folk.
 
 To its denizens, Ermis is everything. They lack even the *concept* of an "outside" to Ermis. But what if intrepid explorers uncovered the astonishing truth that Ermis is merely one small part of a vast cosmic tapestry? Or that its inhabitants originate from the wild voids between distant stars? Journey from the hollows of Ermis to the stars beyond. Ancient secrets and eldritch powers converge to determine Ermis's future. Can our heroes stop what's coming? 
 
@@ -46,11 +46,11 @@ If you like, choose a potential patron or faction whose interests you serve (or 
 Shape your character using these guidelines:
 
 - **Ability Scores**: Roll **4d6** and drop the lowest. Do this six times. if none of your scores are 14 or higher, or if the set has **two or more** scores of 8 or under you may roll a new set of six.
-- **Allowed Sources**:  All classes from the 2014 PHB and TCE are allowed. If you wish to play a **Warlock** please talk with me first.   Other sources are negotiable. 
-- **Ancestry/Lineage**: Ermis lacks many standard D&D ancestries/lineages. You **cannot** play a Dwarf, Dragonborn, Elf, Gnome, Halfling, or Tiefling. **Instead**, the following are available for play on Ermis:  (lineages) Dhampir, Hexblood, Reborn; (ancestries) Harendon, Human, Loxodon, Plasmoid, Thri-Kreen, and Vedalken.
-- **New Ancestries**: Autons: living mechanical constructs;  Doloi: a kind of goblinoid; The Faeir: enigmatic and aloof fey humanoids; Haemin: humanoids small of stature but big in their ideas (as if dwarves, halflings, and gnomes were just one race…).
+- **Allowed Sources**: All classes from the 2014 PHB and TCE are allowed. If you wish to play a **Warlock** please talk with me first. Other sources are negotiable. 
+- **Ancestry/Lineage**: Ermis lacks many standard D&D ancestries/lineages. You **cannot** play a Dwarf, Dragonborn, Elf, Gnome, Halfling, or Tiefling. **Instead**, the following are available for play on Ermis: (lineages) Dhampir, Hexblood, Reborn; (ancestries) Harendon, Human, Loxodon, Plasmoid, Thri-Kreen, and Vedalken.
+- **New Ancestries**: Autons: living mechanical constructs; Doloi: a kind of goblinoid; The Faeir: enigmatic and aloof fey humanoids; Haemin: humanoids small of stature but big in their ideas (as if dwarves, halflings, and gnomes were just one race…).
 - **Racial Bonuses**: When choosing a race, racial ability bonuses can be applied to **any** ability, with a maximum of +2 to any single ability.
-- **New Classes & Subclasses**: Psion (psychic powers,  three subclasses), Pugilist (master of hand-to-hand combat,  seven subclasses); Kinemancer; Orimancer (Wizard); Power Domain (Cleric); Tinkerer (Rogue). 
+- **New Classes & Subclasses**: Psion (psychic powers, three subclasses), Pugilist (master of hand-to-hand combat, seven subclasses); Kinemancer; Orimancer (Wizard); Power Domain (Cleric); Tinkerer (Rogue). 
 
 ## Safety Tools
 
@@ -58,4 +58,3 @@ The adventure features themes of the absurd, darkness, cosmic horror, body horro
 
 - **Lines**: This game will not contain physical violence towards children, unwanted sexual contact, gratuitous animal abuse, party-initiated torture.
 - **Veils**: Cannibalism, consensual sex, and enemy-initiated torture will be "veiled" off-screen. If at any time you don't feel comfortable with the content or direction of the game, say "pause for a second" and we will stop the game and address your concerns.
-

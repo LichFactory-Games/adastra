@@ -14,17 +14,25 @@ jobs:
           script: |
             const { owner, repo } = context.repo;
             const pr = context.payload.pull_request;
-            const isUser = pr.user.login === 'mclearc'; // Replace with your GitHub username
+            const isUser = pr.user.login === 'mclearc';
             
             if (isUser && pr.state === 'open') {
-              const { data: mergeableState } = await github.pulls.get({
+              // Wait for mergeable status to be computed
+              await new Promise(resolve => setTimeout(resolve, 5000));
+              
+              const pullRequest = await github.rest.pulls.get({
                 owner,
                 repo,
                 pull_number: pr.number,
               });
 
-              if (mergeableState.mergeable === true) {
-                await github.pulls.merge({
+              if (pullRequest.data.mergeable === null) {
+                console.log('Mergeable status is still being computed');
+                return;
+              }
+
+              if (pullRequest.data.mergeable === true) {
+                await github.rest.pulls.merge({
                   owner,
                   repo,
                   pull_number: pr.number,

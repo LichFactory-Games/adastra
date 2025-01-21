@@ -5,7 +5,7 @@ tags:
   - helms
 type: rules
 date created: Monday, October 21st 2024, 1:21:02 pm
-date modified: Monday, October 21st 2024, 1:43:46 pm
+date modified: Thursday, January 9th 2025, 1:56:06 pm
 ---
 
 # Spelljamming Helms 
@@ -14,7 +14,7 @@ Ships travel through Wildspace by means of the Spelljamming Helm - a magical dev
 
 A Helm can be made to look like almost anything: A lofty perch made of hard oak, with pillows in the seat and back, and topped with gold filigree; a sleek, futuristic chair made of obsidian and lined with purple silks; a large leaf, elegantly grown into position and automatically shaping to fit it's user; a meditation bench, as simplistic in style as it is in make; or a large uncomfortable iron throne constructed from the swords of a defeated army. How a Helm looks will speak volumes about both its creator, as well as its user. All will function the same and provide the necessary focus point to move about space. Generally, it's installed onto the Bridge of a ship, away from prying eyes and (more importantly) attacks.
 
-There are many sorts of basic Spelljammer Helms: Minor and Major. **All Helms require the user’s Concentration to function**, as if the user were concentrating on a spell. Due to the Concentration required, **no more than eight hours can be spent at a time using this device by one caster**. Attempts to "push through" **may cause one point of exhaustion** (as per the rules for a forced march in chapter 8 of the Player's Handbook (Note -- see our alternative rules for exhaustion).
+There are two sorts of Spelljammer Helms: Minor and Major. **All Helms require the user’s Concentration to function**, as if the user were concentrating on a spell. Due to the Concentration required, **no more than eight hours can be spent at a time using this device by one caster**. Attempts to "push through" **may cause one point of exhaustion** (as per the rules for a forced march in chapter 8 of the Player's Handbook (Note -- see our alternative rules for exhaustion).
 
 Any character may use a helm, though only one character may use a single helm at a time. Attunement to the helm requires a short rest to ensure that the adventurer understands how to concentrate properly and convert their innate magical energy into ship movement. It takes one action to activate, and one action to deactivate the Helm. Characters with the Spellcasting, Ki, Psychic, and Pact Magic class features can use additional abilities of the helm, listed later in this document.
 
@@ -26,7 +26,7 @@ While piloting, the Helmsman can observe her surroundings normally, but also gai
 
 ## Determining Helm Rating 
 
-Use the table below to determine your Helm Rating to spellcaster level ratio when determining the ships overall Speed when using a helm to pilot a ship. A Minor Helm grants a 1:3 ratio of Helm Rating to spellcaster level, and a Major Helm grants a 1:2 ratio of Helm Rating to spellcaster level. This is similar to determining your spell slots when multiclassing, but all classes are able to provide motive force when using a helm to pilot a ship (Players handbook p.163164) Add together all your levels in the Bard, Cleric, Druid, Sorceror, Warlock, and Wizard classes, half your levels (rounded down) in the Paladin, Monk, Ranger, Mystic, and Artificer classes, and a third of the levels taken in Fighter or Rogue classes (rounded down) if you have the Eldritch Knight or the Arcane Trickster archetype. Characters with levels in classes that do not grant the Spellcasting, Pact Magic, Psionics, or Ki abilities divide by four (rounded down, a minimum of 1) to determine Helm Rating.
+Use the table below to determine your Helm Rating to spellcaster level ratio when determining the ships overall Speed when using a helm to pilot a ship. A Minor Helm grants a 1:3 ratio of Helm Rating to spellcaster level, and a Major Helm grants a 1:2 ratio of Helm Rating to spellcaster level. This is similar to determining your spell slots when multiclassing, but all classes are able to provide motive force when using a helm to pilot a ship. Add together all your levels in the Bard, Cleric, Druid, Sorceror, Warlock, and Wizard classes, half your levels (rounded down) in the Paladin, Monk, Ranger, Mystic, and Artificer classes, and a third of the levels taken in Fighter or Rogue classes (rounded down) if you have the Eldritch Knight or the Arcane Trickster archetype. Characters with levels in classes that do not grant the Spellcasting, Pact Magic, Psionics, or Ki abilities divide by four (rounded down, a minimum of 1) to determine Helm Rating.
 
 | Spellcaster Level | Minor Helm | Major Helm |
 |-------------------|------------|------------|
@@ -42,6 +42,8 @@ Use the table below to determine your Helm Rating to spellcaster level ratio whe
 | 16 - 17           | 5          | 8          |
 | 18 - 19           | 6          | 9          |
 | 20                | 6          | 10         |
+
+
 
 
 
@@ -68,7 +70,7 @@ Example 3: A character that has multiclassed a 6th level warlock and an 8th leve
 
 # Siege Weaponry
 
-A siege weapon is a device that is designed to break or circumvent city or castle walls and other fortifications. Most ground-based siege weapons are immobile, constructed in place to attack enemy fortifications from a distance, while others are wheeled to enable advancing up to the enemy fortification. That being said, siege weaponry has been adapted to Space Warfare with fervor. All Siege weapons mounted on Spelljamming ships are on 360° rotating turrets, and may fire in any direction regardless of the facing of a ship. Before it can be fired, all siege weapons must be loaded and aimed. A Load, Aim, and Fire action are done using one Ship Action taken by the Gunner.
+A siege weapon is a device that is designed to break or circumvent city or castle walls and other fortifications. Most ground-based siege weapons are immobile, constructed in place to attack enemy fortifications from a distance, while others are wheeled to enable advancing up to the enemy fortification. That being said, siege weaponry has been adapted to Space Warfare with fervor. All Siege weapons mounted on Spelljamming ships are on 360° rotating turrets, and may fire in any direction regardless of the facing of a ship. Before it can be fired, all siege weapons must be loaded and aimed. 
 
 For Siege Weaponry statistics, please see the [Siege Weapons table, Page 22].
 
